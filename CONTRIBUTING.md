@@ -47,5 +47,4 @@ We use a `main`/`develop` workflow. Please read our [Branching Strategy Guide](#
 5.  Once your PR is approved, it will be merged by a maintainer.
 
 ## Questions?
-
-Come chat with us on our [Discord Server](https://discord.gg/your-invite-link)!
+Ask on wa -> [https://chat.whatsapp.com/DrKFz9rd1Wd8yjE0AzpRJ5]
